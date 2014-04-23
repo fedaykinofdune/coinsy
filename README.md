@@ -47,6 +47,7 @@ If the address you'd like to use is not listed please let me know.
 
 Adudalesdi Ganiladisdi
 
+adudalesdi@mail.com
 adudalesdi@hmamail.com
 
 	-----BEGIN PGP PUBLIC KEY BLOCK-----
