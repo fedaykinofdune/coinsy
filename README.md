@@ -1,6 +1,6 @@
 ## An anonymous decentralized censorship resistant crypto-currency exchange. ##
 
-My name is Adudalesdi Ganiladisdi and I have invented a realtime decentralized peer to peer exchange platform that is secure, anonymous, censorship-resistant, robust and fast. Packets are obfuscated and sensitive material is encrypted using public key cryptography. This project has grown to where I alone am not enough to take it further. Therefore I am giving it to the world and asking for help in exchange.
+My name is Adudalesdi Ganiladisdi and I have invented a realtime decentralized peer to peer exchange platform that is secure, anonymous, DDoS-resistant, censorship-resistant, robust and fast. Packets are obfuscated and sensitive material is encrypted using public key cryptography. This project has grown to where I alone am not enough to take it further. Therefore I am giving it to the world and asking for help in exchange.
 
 The network can be easily extended to create other realtime services including decentralized market places or telephone systems. More information is found in /docs.
 
