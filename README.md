@@ -19,16 +19,12 @@ I have provided a reference implementation and client for Mac OS X. You can down
 There are several to do's in no particular order.
 
 1. Implement a tcp specific protocol header with an N-bit length field to split incoming packets.
-2. Implement a "Web of Trust" modal rather than a controlled decentralized public key infrastructure.
-3. Implement block chain functionality.
-4. Come to consensus on escrow. A decentralized algorithm proves to work effectively in simulations but users may want to use centralized escrow services. Using both would be a +1.
-5. Use non-random account balances (related to 4).
-6. Fix "hung" offers (related to 1).
-7. Fix possible failed text messages (related to 1).
-8. Cleanup database code and upload.
-9. Start implementing iOS, Android, Linux, Windows, etc clients.
-10. Implement market chart into reference client for OS X.
-11. Release beta version to the general public.
+2. Implement block chain functionality.
+3. Come to consensus on escrow. A decentralized algorithm proves to work effectively in simulations but users may want to use centralized escrow services. Using both would be a +1.
+4. Use non-random account balances (related to 4).
+5. Fix "hung" offers (related to 1).
+6. Fix possible failed text messages (related to 1).
+7. Cleanup database code and upload.
 
 Please consider donating to one of the following crypto-currency addresses to support this effort:
 
