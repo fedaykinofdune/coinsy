@@ -18,13 +18,10 @@ I have provided a reference implementation and client for Mac OS X. You can down
 
 There are several to do's in no particular order.
 
-1. Implement a tcp specific protocol header with an N-bit length field to split incoming packets.
-2. Implement block chain functionality.
-3. Come to consensus on escrow. A decentralized algorithm proves to work effectively in simulations but users may want to use centralized escrow services. Using both would be a +1.
-4. Use non-random account balances (related to 3).
-5. Fix "hung" offers (related to 1).
-6. Fix possible failed text messages (related to 1).
-7. Cleanup database code and upload.
+1. Implement block chain functionality.
+2. Come to consensus on escrow. A decentralized algorithm proves to work effectively in simulations but users may want to use centralized escrow services. Using both would be a +1.
+3. Use non-random account balances (related to 2).
+4. Cleanup database code and upload.
 
 Please consider donating to one of the following crypto-currency addresses to support this effort:
 
